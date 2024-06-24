@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff&text=Wellcome!&fontColor=ffd700&fontAlign=50&fontAlignY=78"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff&text=Wellcome!&fontColor=d9aa1e&fontAlign=50&fontAlignY=78"/>
 <div align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&random=false&width=435&height=65&lines=I'm+always+leveling+up;ceaselessly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=d9aa1e&center=true&vCenter=true&multiline=true&random=false&width=435&height=65&lines=I'm+always+leveling+up;ceaselessly)](https://git.io/typing-svg)
 
 <div align="center"> 
 
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oguiaraujo&show_icons=true&theme=transparent&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_border=true" alt="Guilherme Araújo github stats" /> 
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguiaraujo&layout=compact&theme=transparent&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_border=true" />
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oguiaraujo&show_icons=true&theme=transparent&title_color=d9aa1e&text_color=ffffff&icon_color=d9aa1e&hide_border=true" alt="Guilherme Araújo github stats" /> 
+  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguiaraujo&layout=compact&theme=transparent&title_color=d9aa1e&text_color=ffffff&icon_color=d9aa1e&hide_border=true" />
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
