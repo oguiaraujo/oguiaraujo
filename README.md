@@ -2,7 +2,7 @@
 
 <div align="center"> 
   
-  [![My Skills](https://skillicons.dev/icons?i=py,flutter&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,&theme=dark)](https://skillicons.dev)
   
   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oguiaraujo&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=#ffffff" alt="Guilherme Araújo github stats" /> 
   
