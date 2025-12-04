@@ -2,7 +2,7 @@
 
 <div align="center"> 
   
-  [![My Skills](https://skillicons.dev/icons?i=py,&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,django,react,next&theme=dark)](https://skillicons.dev)
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=10000000000000000&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&width=435&lines=I'm+always+leveling+up)](https://git.io/typing-svg)
 
